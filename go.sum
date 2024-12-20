@@ -1,0 +1,10 @@
+filippo.io/edwards25519 v1.1.0 h1:FNf4tywRC1HmFuKW5xopWpigGjJKiJSV0Cqo0cJWDaA=
+filippo.io/edwards25519 v1.1.0/go.mod h1:BxyFTGdWcka3PhytdK4V28tE5sGfRvvvRV7EaN4VDT4=
+github.com/NikoMalik/low-level-functions v0.0.0-20241218180913-2497d51dbcf4 h1:QYG/k3Yfuf1tppgrvEJWRL9KP7jIJ+dhE15BZzh/aW8=
+github.com/NikoMalik/low-level-functions v0.0.0-20241218180913-2497d51dbcf4/go.mod h1:Ta81ZEQvW9ECJiqMLQt99HJiTVzurWeXfVlU9LOeHHg=
+github.com/NikoMalik/low-level-functions v0.0.0-20241220114626-881ab7914153 h1:Bq6ioAYFyZlnEgxsPV7xl+pKPwUqh6hR1nHrHfi9Gk8=
+github.com/NikoMalik/low-level-functions v0.0.0-20241220114626-881ab7914153/go.mod h1:Ta81ZEQvW9ECJiqMLQt99HJiTVzurWeXfVlU9LOeHHg=
+github.com/NikoMalik/mutex v0.0.0-20240902120000-625205208e61 h1:57YpM6jhEv009oHBqN29/rTk/imfs+F6mizT5vE1YVQ=
+github.com/NikoMalik/mutex v0.0.0-20240902120000-625205208e61/go.mod h1:jimMZBx/0J0NEPS7sNEMt65jO+kWPWxELot9/BmTZBk=
+golang.org/x/sys v0.28.0 h1:Fksou7UEQUWlKvIdsqzJmUmCX3cZuD2+P3XyyzwMhlA=
+golang.org/x/sys v0.28.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
